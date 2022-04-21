@@ -48,6 +48,7 @@ export const GridArea = styled.div`
     @media (max-width: 800px){
         justify-content: center;
         margin: 0 20px;
+        padding-right: 0rem;
     }
 `
 export const Grid = styled.div`
